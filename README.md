@@ -12,6 +12,9 @@ git checkout v0.0.1 data/data.csv.dvc
 ```
 dvc checkout
 ```
+```
+dvc pull
+```
 
 ## To get back
 ```
@@ -19,4 +22,7 @@ git checkout main
 ```
 ```
 dvc checkout
+```
+```
+dvc pull
 ```
